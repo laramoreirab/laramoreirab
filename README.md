@@ -1,5 +1,5 @@
 ## Olá!! Eu sou a Lara 😄
-<h3>Atualmente estou estudando sobre desenvolvimento front-end 💻 </h3>
+<h3>Atualmente estou estudando sobre desenvolvimento 💻 </h3>
 <picture>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laramoreirab&layout=compact&langs_count=8&card_width=320&theme=moltack" />
