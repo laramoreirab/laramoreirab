@@ -70,7 +70,7 @@ Project management & back-end development.
 <p align="center">
   <a href="https://github.com/laramoreirab/safework">
     <img
-      src="https://img.shields.io/badge/Projetct%20%E2%86%92-D45E5E?style=for-the-badge"
+      src="https://img.shields.io/badge/Project%20%E2%86%92-D45E5E?style=for-the-badge"
     />
   </a>
 </p>
