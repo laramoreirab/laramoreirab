@@ -173,30 +173,25 @@ ETL, SQL, data analysis and report generation.
 />
 </div>
 <br>
-  
 <h3>📈 GitHub metrics</h3>
 <p align="center">
 <img
   src="https://raw.githubusercontent.com/laramoreirab/laramoreirab/main/github-metrics.svg"
-  width="70%"
+  width="60%"
   alt="GitHub Metrics"
 />
 </p>
 <br>
 <h3>🐍 Contribution snake</h3>
-<br>
 <picture>
-
 <source
   media="(prefers-color-scheme: dark)"
   srcset="https://raw.githubusercontent.com/laramoreirab/laramoreirab/output/github-snake-dark.svg"
 />
-
 <source
   media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/laramoreirab/laramoreirab/output/github-snake.svg"
 />
-
 <img
   alt="GitHub contribution snake"
   src="https://raw.githubusercontent.com/laramoreirab/laramoreirab/output/github-snake.svg"
@@ -215,7 +210,7 @@ ETL, SQL, data analysis and report generation.
   />
 </a>
 <br>
-<a href="SEU_LINKEDIN_AQUI">
+<a href="https://wwww.linkedin.com/in/lara-moreira-barreto-3b882b300">
   <img
     src="https://img.shields.io/badge/LinkedIn-Lara%20Moreira%20Barreto-F4978E?style=for-the-badge&logo=linkedin&logoColor=white"
   />
