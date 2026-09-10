@@ -179,7 +179,7 @@ ETL, SQL, data analysis and report generation.
 <p align="center">
 <img
   src="https://raw.githubusercontent.com/laramoreirab/laramoreirab/main/github-metrics.svg"
-  width="95%"
+  width="70%"
   alt="GitHub Metrics"
 />
 </p>
